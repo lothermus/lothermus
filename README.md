@@ -7,8 +7,11 @@ Foco meus esforços em me tornar um Analista de Qualidade, ou Quality Assurance.
 Linguas que eu falo:
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="40" height="40"/> - Lingua Materna
+  <br>
 <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="40" height="40"/> Avançado/Fluente
+  <br>
 <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="40" height="40"/> N4-N3
+  <br>
 </p>
 
 Ferramentas que tenho expetise:
