@@ -6,7 +6,7 @@ Foco meus esforços em me tornar um Analista de Qualidade, ou Quality Assurance.
 
 Linguas que eu falo:
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="40" height="40"/> Lingua Materna - (PT-BR) Portugês-Brasileiro
+<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="40" height="40"/> Lingua Materna - (PT-BR) Português Brasileiro
   <br>
 <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="40" height="40"/> Avançado/Fluente - (IN/EN-US) - Inglês Estadunidense
   <br>
@@ -14,18 +14,18 @@ Linguas que eu falo:
   <br>
 </p>
 
-Ferramentas que tenho expetise:
+Ferramentas que tenho expertise:
 <br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
 
-##Linguagens de programação:
+Linguagens de programação:
+<br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 
-## Você pode me encontrar em:
+Você pode me encontrar em:
 <div>
 <a href = "mailto:lothermus@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lothermus" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-![Snake animation](https://github.com/lothermus/lothermus/blob/output/github-contribution-grid-snake.svg)
