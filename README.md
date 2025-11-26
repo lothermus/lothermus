@@ -4,14 +4,14 @@ Sou o Washington Henrique, atualmente trabalho como Suporte a sistema de ERP cha
 Foco meus esforços em me tornar um Analista de Qualidade, ou Quality Assurance.
 
 Linguas que eu falo:
-<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="40"/> - Lingua Materna
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="40"/> Avançado/Fluente
-<img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="40"/> N4-N3
+<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="40" height="40"/> - Lingua Materna
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="40" height="40"/> Avançado/Fluente
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="40" height="40"/> N4-N3
 
 Ferramentas que tenho expetise:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" />
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" />
 
 ##Linguagens de programação:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
