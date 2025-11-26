@@ -6,7 +6,7 @@ Foco meus esforços em me tornar um Analista de Qualidade, ou Quality Assurance.
 
 Linguas que eu falo:
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="40" height="40"/> - Lingua Materna
+<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="40" height="40"/>
   <br>
 <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="40" height="40"/> Avançado/Fluente
   <br>
@@ -16,8 +16,11 @@ Linguas que eu falo:
 
 Ferramentas que tenho expetise:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" />
+<br>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" />
+
+<br>
 
 ##Linguagens de programação:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
