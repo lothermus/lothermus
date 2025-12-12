@@ -14,7 +14,7 @@ Linguas que eu falo:
   <br>
 </p>
 
-Ferramentas que tenho expertise:
+Ferramentas que tenho experiência:
 <br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" />
@@ -23,6 +23,10 @@ Ferramentas que tenho expertise:
 Linguagens de programação:
 <br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+
+Frameworks que tenho expertise:
+<br>
+<img loading="lazy" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png" width="40" height="40" />
 
 Você pode me encontrar em:
 <div>
