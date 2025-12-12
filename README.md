@@ -26,7 +26,9 @@ Linguagens de programação:
 
 Frameworks que tenho expertise:
 <br>
+<img loading="lazy" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/robot_framework.png" width="40" height="40" />
 <img loading="lazy" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png" width="40" height="40" />
+
 
 Você pode me encontrar em:
 <div>
