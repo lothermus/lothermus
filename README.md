@@ -1,7 +1,6 @@
 ## Opa! E aí, beleza? 👋
 
-Sou o Washington Henrique, atualmente trabalho como Suporte a sistema de ERP chamado Piloto, e estudante de Programação!
-Foco meus esforços em me tornar um Analista de Qualidade, ou Quality Assurance.
+Sou o Washington Henrique, estudante de programação e estudando diariamente para me tornar um Analista de Qualidade!
 
 
 Linguas que eu falo:
@@ -16,15 +15,16 @@ Linguas que eu falo:
 
 Ferramentas que tenho experiência:
 <br>
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CorelDraw_logo.svg/250px-CorelDraw_logo.svg.png" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/7/71/VEGAS_Pro_icon.png" width="40" height="40" />
 
-Linguagens de programação:
+Linguagens de programação que estou aprendendo:
 <br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 
-Frameworks que tenho expertise:
+Frameworks que estou em aprendizado:
 <br>
 <img loading="lazy" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/robot_framework.png" width="40" height="40" />
 <img loading="lazy" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png" width="40" height="40" />
