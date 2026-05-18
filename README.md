@@ -5,8 +5,10 @@ Sou o Washington Henrique, estudante de programação e estudando diariamente pa
 
 Linguas que eu falo:
 <p align="left">
-PT-BR - Português do Brasil
+PT/BR - Português do Brasil
+<br>
 EN/EN - Inglês (Avançado)
+<br>
 JP - Japonês (能力試験N4)
 </p>
 
