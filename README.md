@@ -5,12 +5,9 @@ Sou o Washington Henrique, estudante de programação e estudando diariamente pa
 
 Linguas que eu falo:
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="40" height="40"/> Lingua Materna - (PT-BR) Português Brasileiro
-  <br>
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="40" height="40"/> Avançado/Fluente - (IN/EN-US) - Inglês Estadunidense
-  <br>
-<img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="40" height="40"/> 能力試験のレベル N4-N3 - (JP-日本語) - Japonês
-  <br>
+PT-BR - Português do Brasil
+EN/EN - Inglês (Avançado)
+JP - Japonês (能力試験N4)
 </p>
 
 Ferramentas que tenho experiência:
